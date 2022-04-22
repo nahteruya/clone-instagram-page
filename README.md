@@ -2,7 +2,7 @@
 
 Desafio proposto no módulo de Introdução a HTML e CSS do Bootcamp Spread Fullstack Developer oferecido pela DIO em parceria com a Spread. O objetivo do projeto é recriar a página de perfil de usuário do Instagram, aplicando os conhecimentos em tags HTML e posicionamento de elementos com flexbox em CSS.
 
-<img src="./img/clone-page-insta.png" alt="Page Instagram View">
+<img src="./img/clone-page-insta.png" alt="Page Instagram View" width="300"/>
 <br>
 
 Tecnologias utilizadas:  
